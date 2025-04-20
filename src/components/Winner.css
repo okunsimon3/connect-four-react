@@ -1,0 +1,14 @@
+.winner-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: rgb(0, 153, 255);
+    color: white;
+    margin-top: 2rem;
+    transition: .2s all ease-in-out;
+    margin-top: 0;
+}
+.winner-btn:hover {
+    background-color: rgb(234, 0, 255);
+    color: rgb(20, 20, 20);
+    transition: .2s all ease-in-out;
+}

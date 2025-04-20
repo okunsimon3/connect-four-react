@@ -1,0 +1,24 @@
+:root {
+  --size: 100px;
+  --p1: rgb(255, 230, 0);
+  --p2: rgb(255, 39, 39);
+  background-color: rgb(112, 255, 248);
+  overflow: hidden;
+}
+
+.App {
+  display: flex;
+  place-content: center;
+  scale: 0.6;
+  justify-items: center;
+  margin-top: -8rem;
+}
+
+.left-side {
+  margin-right: 2rem;
+  width: 100%;
+}
+.left-side img {
+  width: 80%;
+  border-radius: 4rem;
+}
