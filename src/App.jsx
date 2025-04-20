@@ -18,7 +18,7 @@ function App() {
     <>
       <div className='App'>
         <div className='left-side'>
-          <img src='./src/assets/key-map.jpg'></img>
+          <img src='../src/assets/key-map.jpg'></img>
         </div>
         <div className='game-container'>
           {winner === 0 && <h2>Player {turn}'s turn</h2>}
